@@ -6,7 +6,7 @@ Feel free to explore my **background and skillset** in greater detail on the [Ab
 
 You can also connect with me or check out my presentations and speaking engagements:
 
-- [LinkedIn](#)
-- [Presentations and Speaking](#)
+- [LinkedIn](https://www.linkedin.com/in/chenyuan99/)
+- [Presentations and Speaking](https://yuanchen.io/)
 
 Looking forward to connecting!
