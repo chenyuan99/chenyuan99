@@ -10,3 +10,21 @@ You can also connect with me or check out my presentations and speaking engageme
 - [Presentations and Speaking](https://yuanchen.io/)
 
 Looking forward to connecting!
+
+### My Projects
+
+- TaxFront
+- OfferPlus
+- swelist
+
+### OpenSource Contribution
+
+- Apache Airflow
+- Apache Gravitino
+- OpenClaw
+- USTaxes
+
+### Work
+
+- AWS Duvet
+- ResumeSurvivor
